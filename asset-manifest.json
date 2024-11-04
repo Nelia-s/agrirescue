@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agrirescue/static/css/main.6282761f.css",
+    "main.js": "/agrirescue/static/js/main.3df8cd7e.js",
+    "static/js/453.d0ce44fa.chunk.js": "/agrirescue/static/js/453.d0ce44fa.chunk.js",
+    "static/media/hero.jpg": "/agrirescue/static/media/hero.979dd14d581e8e0ba33e.jpg",
+    "index.html": "/agrirescue/index.html",
+    "main.6282761f.css.map": "/agrirescue/static/css/main.6282761f.css.map",
+    "main.3df8cd7e.js.map": "/agrirescue/static/js/main.3df8cd7e.js.map",
+    "453.d0ce44fa.chunk.js.map": "/agrirescue/static/js/453.d0ce44fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6282761f.css",
+    "static/js/main.3df8cd7e.js"
+  ]
+}
